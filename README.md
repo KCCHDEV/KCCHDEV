@@ -24,8 +24,8 @@ __my way of working__
 ### time management
 - [x] update DAL Bot code for copy 🎉
 - [x] create website bot
-- [ ] make git repository for copy website
-- [ ] create new code
+- [x] make git repository for copy website
+- [x] create new code
 - [ ] Buy New pc
 
 
