@@ -39,4 +39,4 @@ __my way of working__
 <a href="https://www.youtube.com/channel/UCCwhaAbi3t6WthXOQaakYEw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/EGMT4d99zg" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
-![image](https://media.discordapp.net/attachments/950770133972971558/991345013432787024/Gamer-Girl-Aesthetic.gif)
+![image](https://images7.alphacoders.com/116/thumb-1920-1161810.jpg)
