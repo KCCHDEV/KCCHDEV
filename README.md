@@ -30,10 +30,10 @@ __my way of working__
 ## Goodluck with everything 
 
 ### time management
-- [x] update DAL Bot code for copy 🎉
-- [x] create website bot
-- [x] make git repository for copy website
-- [x] create new code
+- [ ] Update Dashboard
+- [ ] Create Server
+- [ ] open LunaServerPro Free Hosting
+- [ ] KO
 - [ ] Buy New pc
 
 <a href="https://www.youtube.com/channel/UCCwhaAbi3t6WthXOQaakYEw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
