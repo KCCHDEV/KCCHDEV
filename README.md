@@ -29,6 +29,13 @@ __my way of working__
 
 ## Goodluck with everything 
 
+
+![image](https://media.discordapp.net/attachments/950770133972971558/995369921900974241/standard_4.gif)
+Link : เร็วๆนี้
+
+![image](https://media.discordapp.net/attachments/950770133972971558/995369930688036985/standard_1.gif)
+Link : [Go to DAL website](https://dal-website.snowiechandeveloper.repl.co/)
+
 ### time management
 - [ ] Update Dashboard
 - [ ] Create Server
