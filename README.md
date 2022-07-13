@@ -1,5 +1,6 @@
 ## My name is golf and I am an intermediate programmer.
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/631102214076891157?theme=:dark&borderRadius=:10px&idleMessage=If%20not%20AFK,%20it%20means%20I%27m%20free.)](https://discord.com/users/631102214076891157)
+##
 __my way of working__
 - start search for information and Module/API
  - start coding project
@@ -10,11 +11,10 @@ __my way of working__
 - and done ✅
 
 ## GitHub Stats
-<a href="https://github.com/KCCHDEV">
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KCCHDEV&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-<a href="https://github.com/KCCHDEV">
-  <img height="111em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KCCHDEV&layout=compact&langs_count=7&theme=gruvbox"/>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KCCHDEV&show_icons=true&theme=dracula)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats&theme=dracula)
 ## My programming language i can write
 
  1. JavaScript
