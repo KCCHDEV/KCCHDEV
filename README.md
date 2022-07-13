@@ -12,9 +12,10 @@ __my way of working__
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KCCHDEV&show_icons=true&theme=dracula)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## Projact in work
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KCCHDEV&repo=Qwakeactyl-LunaServerPro&theme=dracula)
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula)
 ## My programming language i can write
 
  1. JavaScript
