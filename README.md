@@ -13,7 +13,7 @@ __my way of working__
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KCCHDEV&show_icons=true&theme=dracula)
 ## Projact in work
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KCCHDEV&repo=Qwakeactyl-LunaServerPro&theme=dracula)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KCCHDEV&repo=Qwakeactyl-LunaServerPro-2&theme=dracula)
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula)
 ## My programming language i can write
