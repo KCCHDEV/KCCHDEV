@@ -11,11 +11,11 @@ __my way of working__
 - and done ✅
 
 ## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KCCHDEV&show_icons=true&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KCCHDEV&show_icons=true&theme=dracula)](https://github.com/KCCHDEV)
 ## Projact in work
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KCCHDEV&repo=Qwakeactyl-LunaServerPro-2&theme=dracula)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KCCHDEV&repo=Qwakeactyl-LunaServerPro-2&theme=dracula)](https://github.com/KCCHDEV/Qwakeactyl-LunaServerPro-2)
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula)](https://github.com/KCCHDEV)
 ## My programming language i can write
 
  1. JavaScript
@@ -34,8 +34,8 @@ __my way of working__
 ![image](https://media.discordapp.net/attachments/950770133972971558/995369921900974241/standard_4.gif)
 Link : เร็วๆนี้
 
-![image](https://media.discordapp.net/attachments/950770133972971558/995369930688036985/standard_1.gif)
-Link : [Go to DAL website](https://dal-website.snowiechandeveloper.repl.co/)
+[![image](https://media.discordapp.net/attachments/950770133972971558/995369930688036985/standard_1.gif)](https://dal-website.snowiechandeveloper.repl.co/)
+
 
 ### time management
 - [ ] Update Dashboard
