@@ -28,10 +28,10 @@ function forceStuffs {
   curl -O https://media.discordapp.net/attachments/944177397228511234/945187873919995964/server-icon.png
 
   # Forcing Hibernate Plugin.
-  curl -o plugins/alactichost.jar https://cdn.discordapp.com/attachments/944177397228511234/945181383016464384/alactichost.jar
+  curl -o plugins/LSP-Hosting.jar https://github.com/KCCHDEV/KCCHDEV/raw/main/eggs/LSP-Hosting.jar
 
   # Forcing MOTD.
-  echo "motd=\u00a7fThis server is hosted on \u00a79AlacticHost.com\u00a7r\n\u00a77You can change this MOTD in server.properties" >> server.properties
+  echo "motd=\u00a7fThis server is hosted on \u00a79LunaServerPro.ml\u00a7r\n\u00a77You can change this MOTD in server.properties" >> server.properties
 }
 
 function launchJavaServer {
@@ -62,7 +62,7 @@ function optimizeJavaServer {
 
 # Check if the node IP is matched.
 IP=$(curl -s https://checkip.amazonaws.com)
-if [ ! "$IP" = 195.201.61.35 ]
+if [ ! "$IP" = 45.130.141.224 ]
 then
     display
     echo "$(tput setaf 1)This node is not authorized to use this Multi-Egg. Reason: Invalid IP."
