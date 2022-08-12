@@ -13,7 +13,7 @@ __my way of working__
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KCCHDEV&show_icons=true&theme=dracula)](https://github.com/KCCHDEV)
 ## Projact in work
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KCCHDEV&repo=Qwakeactyl-LunaServerPro-2&theme=dracula)](https://github.com/KCCHDEV/Qwakeactyl-LunaServerPro-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KCCHDEV&repo=Qwakeactyl-LunaServerPro-2&theme=dracula)]https://github.com/KCCHDEV/Makori-Music)
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula)](https://github.com/KCCHDEV)
 ## My programming language i can write
@@ -31,8 +31,7 @@ __my way of working__
 ## Goodluck with everything 
 
 
-![image](https://media.discordapp.net/attachments/950770133972971558/995369921900974241/standard_4.gif)
-Link : เร็วๆนี้
+[![image](https://cdn.discordapp.com/attachments/950770133972971558/1000924373684863056/standard_5.gif)](https://lunaserverpro.ml)
 
 [![image](https://media.discordapp.net/attachments/950770133972971558/995369930688036985/standard_1.gif)](https://dal-website.snowiechandeveloper.repl.co/)
 
