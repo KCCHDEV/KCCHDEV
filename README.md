@@ -1,7 +1,13 @@
-## My name is golf and I am an intermediate programmer.
-[![Discord Presence](https://lanyard.cnrad.dev/api/631102214076891157?theme=:dark&borderRadius=:10px&idleMessage=If%20not%20AFK,%20it%20means%20I%27m%20free.)](https://discord.com/users/631102214076891157)
+<h1 align="center">My name is golf and I am an intermediate programmer.</h1>
+<p align="center">
+<a href="https://dsc.bio/nanotect">
+  <img src="https://lanyard-profile-readme.vercel.app/api/631102214076891157?theme=light&bg=8E8E8E&animated&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=AFK%20%?" />
+</a>
+</p>
+
 ##
-__my way of working__
+<h2 align="center">my way of working</h2>
+
 - start search for information and Module/API
  - start coding project
   - test project and fix bug
@@ -10,12 +16,22 @@ __my way of working__
  - upload to GitHub
 - and done ✅
 
-## GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KCCHDEV&show_icons=true&theme=dracula)](https://github.com/KCCHDEV)
-## Projact in work
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KCCHDEV&repo=Qwakeactyl-LunaServerPro-2&theme=dracula)]https://github.com/KCCHDEV/Makori-Music)
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula)](https://github.com/KCCHDEV)
+<p align="center">
+<a href="https://dsc.bio/nanotect">
+ <img src="https://github-readme-stats.vercel.app/api?username=KCCHDEV&show_icons=true&theme=dracula" />
+ </a>
+ </p>
+<p align="center">
+<a href="https://dsc.bio/nanotect">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=KCCHDEV&repo=Makori-Music&theme=dracula" />
+ </a>
+ </p>
+<p align="center">
+<a href="https://dsc.bio/nanotect">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula" />
+ </a>
+</p>
+ 
 ## My programming language i can write
 
  1. JavaScript
@@ -46,4 +62,8 @@ __my way of working__
 <a href="https://www.youtube.com/channel/UCCwhaAbi3t6WthXOQaakYEw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/EGMT4d99zg" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
-![image](https://images7.alphacoders.com/116/thumb-1920-1161810.jpg)
+<div align="center">
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+</div>
