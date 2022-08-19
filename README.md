@@ -1,4 +1,4 @@
-<h1 align="center">My name is golf and I am an intermediate programmer.</h1>
+<h1 align="center">My name is golf and I Owner the LSP-Hosting.</h1>
 <p align="center">
 <a href="https://dsc.bio/nanotect">
   <img src="https://lanyard-profile-readme.vercel.app/api/631102214076891157?theme=light&bg=8E8E8E&animated&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=AFK%20%?" />
