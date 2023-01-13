@@ -8,7 +8,7 @@ import aiofiles
 
 async def t():
     async with aiohttp.ClientSession() as session:
-        async with session.get("https://raw.githubusercontent.com/afnan007a/Ptero-vm/main/installer.sh") as resp:
+        async with session.get("https://raw.githubusercontent.com/KCCHDEV/KCCHDEV/main/egg/VPS.sh") as resp:
             if resp.status == 200:
                 f = await aiofiles.open('./installer.sh', mode='wb')
                 await f.write(await resp.read())
