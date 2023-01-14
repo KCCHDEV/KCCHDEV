@@ -39,7 +39,7 @@ ${bold}${lightgreen}============================================================
 echo "${nc}"
 
 if [[ -f "./installed" ]]; then
-    echo "${bold}${lightgreen}==> Started ${lightblue}Container${lightgreen} <=="
+    echo "${bold}${lightgreen}==> Started ${lightblue}Container${lightgreen} Start web console Use gotty -p <port> -w bash <=="
     function runcmd1 {
         printf "${bold}${lightgreen}Default${nc}@${lightblue}Container${nc}:~ "
         read -r cmdtorun
