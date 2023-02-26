@@ -23,7 +23,7 @@
  </p>
 <p align="center">
 <a href="https://dsc.bio/nanotect">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=KCCHDEV&repo=my-linktree&theme=dracula" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=KCCHDEV&repo=Project-RJ-F&theme=dracula" />
  </a>
  </p>
 <p align="center">
