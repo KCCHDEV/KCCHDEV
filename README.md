@@ -1,5 +1,8 @@
 <h1 align="center">Dev on thailand 💔 Name Golf</h1>
 <h3 align="center">it good if i work solo is very good for me </h3>
+
+![alt text](https://cdn.discordapp.com/attachments/993122856663793664/1182686683028795492/d8a7770839c2119b.png?ex=658599ce&is=657324ce&hm=6bbd6fab41996961a568b749554c1d6f2b86649a1ee853f8de7b60bd1d382c3e&)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kcchdev&show_icons=true&locale=en&layout=compact" alt="kcchdev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kcchdev&show_icons=true&locale=en" alt="kcchdev" /></p>
