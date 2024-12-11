@@ -1,5 +1,5 @@
 <h1 align="center">สวัสดีครับ, ผมชื่อ นาย ธนวัตน์ แก้วไทย (กอล์ฟ) 👋</h1>
-<h3 align="center">CEO ของ RDTRC TEAM | นักพัฒนาเว็บ | โสด</h3>
+<h3 align="center">CEO ของ RDTRC TEAM | นักพัฒนาทั่วไปถึงสูง | โสด</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kcchdev&show_icons=true&theme=radical" alt="kcchdev" />
