@@ -66,6 +66,9 @@
 ## 🌐 เชื่อมต่อกับผม
 
 <p align="center">
+  <a href="https://linktr.ee/NayGolf" target="blank">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+  </a>
   <a href="https://fb.com/นาย กอล์ฟ" target="blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
