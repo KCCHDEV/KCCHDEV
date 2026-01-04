@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF69B4&center=true&vCenter=true&width=940&lines=สวัสดีครับ+👋;ผมชื่อ+นาย+ธนวัตน์+แก้วไทย+(กอล์ฟ);CEO+ของ+RDTRC+TEAM+💼;นักพัฒนาทั่วไปถึงสูง+🚀;Welcome+to+my+GitHub+Profile!+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF69B4&center=true&vCenter=true&width=940&lines=สวัสดีครับ+👋;ผมชื่อ+นาย+ธนวัตน์+แก้วไทย+(กอล์ฟ);นักพัฒนาทั่วไปถึงสูง+🚀;Welcome+to+my+GitHub+Profile!+✨" alt="Typing SVG" />
 </div>
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  CEO ของ RDTRC TEAM | นักพัฒนาทั่วไปถึงสูง | โสด
+  นักพัฒนาทั่วไปถึงสูง | โสด
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
