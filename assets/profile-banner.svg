@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">KCCHDEV / NAYGOLF</title>
+  <desc id="desc">Profile banner for KCCHDEV, full-stack developer focused on AI tooling, desktop apps and server systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="52%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#301934"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff69b4"/>
+      <stop offset="100%" stop-color="#b76cff"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#grid)"/>
+
+  <circle cx="1020" cy="55" r="150" fill="#ff69b4" fill-opacity="0.11" filter="url(#glow)"/>
+  <circle cx="1110" cy="265" r="120" fill="#8a5cff" fill-opacity="0.12" filter="url(#glow)"/>
+
+  <rect x="72" y="60" width="220" height="8" rx="4" fill="url(#accent)"/>
+  <text x="72" y="132" fill="#ffffff" font-size="54" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">KCCHDEV / NAYGOLF</text>
+  <text x="74" y="174" fill="#c9d1d9" font-size="22" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Full-stack &#8226; AI tooling &#8226; Desktop apps &#8226; Server systems</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="600">
+    <rect x="74" y="214" width="132" height="42" rx="12" fill="#ff69b4" fill-opacity="0.15" stroke="#ff69b4" stroke-opacity="0.45"/>
+    <text x="96" y="241" fill="#ff9dca">TypeScript</text>
+
+    <rect x="220" y="214" width="104" height="42" rx="12" fill="#58a6ff" fill-opacity="0.12" stroke="#58a6ff" stroke-opacity="0.4"/>
+    <text x="246" y="241" fill="#79c0ff">React</text>
+
+    <rect x="338" y="214" width="110" height="42" rx="12" fill="#3fb950" fill-opacity="0.12" stroke="#3fb950" stroke-opacity="0.4"/>
+    <text x="360" y="241" fill="#7ee787">Node.js</text>
+
+    <rect x="462" y="214" width="96" height="42" rx="12" fill="#d29922" fill-opacity="0.12" stroke="#d29922" stroke-opacity="0.4"/>
+    <text x="486" y="241" fill="#e3b341">Swift</text>
+
+    <rect x="572" y="214" width="92" height="42" rx="12" fill="#a371f7" fill-opacity="0.12" stroke="#a371f7" stroke-opacity="0.4"/>
+    <text x="595" y="241" fill="#d2a8ff">Rust</text>
+  </g>
+
+  <text x="1124" y="282" text-anchor="end" fill="#8b949e" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">github.com/KCCHDEV</text>
+</svg>
